@@ -24,16 +24,16 @@ function Layout() {
         </div>
         <ul>
           <li>
-            <Link onClick={click1} className={(active===1)? "active":""} to="Website/">Home</Link>
+            <Link onClick={click1} className={(active===1)? "active":""} to="/">Home</Link>
           </li>
           <li>
-            <Link onClick={click2} className={(active===2)? "active":""} to="Website/blogs">Blogs</Link>
+            <Link onClick={click2} className={(active===2)? "active":""} to="/blogs">Blogs</Link>
           </li>
           <li>
-            <Link onClick={click3} className={(active===3)? "active":""} to="Website/about">About</Link>
+            <Link onClick={click3} className={(active===3)? "active":""} to="/about">About</Link>
           </li>
           <li>
-            <Link onClick={click4} className={(active===4)? "active":""} to="Website/contact">Contact</Link>
+            <Link onClick={click4} className={(active===4)? "active":""} to="/contact">Contact</Link>
           </li>
         </ul>
       </nav>
