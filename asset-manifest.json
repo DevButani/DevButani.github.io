@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/Website/static/css/main.6de26749.css",
-    "main.js": "/Website/static/js/main.6a0adc0d.js",
-    "static/js/787.28cb0dcd.chunk.js": "/Website/static/js/787.28cb0dcd.chunk.js",
-    "static/media/bg-img.jpg": "/Website/static/media/bg-img.195aba21984478b78cd8.jpg",
-    "static/media/logo.jpg": "/Website/static/media/logo.5f70472689bcd39634f0.jpg",
-    "index.html": "/Website/index.html",
-    "main.6de26749.css.map": "/Website/static/css/main.6de26749.css.map",
-    "main.6a0adc0d.js.map": "/Website/static/js/main.6a0adc0d.js.map",
-    "787.28cb0dcd.chunk.js.map": "/Website/static/js/787.28cb0dcd.chunk.js.map"
+    "main.css": "/DevButani.github.io/static/css/main.07884ef0.css",
+    "main.js": "/DevButani.github.io/static/js/main.31679bf0.js",
+    "static/js/787.28cb0dcd.chunk.js": "/DevButani.github.io/static/js/787.28cb0dcd.chunk.js",
+    "static/media/bg-img.jpg": "/DevButani.github.io/static/media/bg-img.195aba21984478b78cd8.jpg",
+    "static/media/logo.jpg": "/DevButani.github.io/static/media/logo.5f70472689bcd39634f0.jpg",
+    "index.html": "/DevButani.github.io/index.html",
+    "main.07884ef0.css.map": "/DevButani.github.io/static/css/main.07884ef0.css.map",
+    "main.31679bf0.js.map": "/DevButani.github.io/static/js/main.31679bf0.js.map",
+    "787.28cb0dcd.chunk.js.map": "/DevButani.github.io/static/js/787.28cb0dcd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6de26749.css",
-    "static/js/main.6a0adc0d.js"
+    "static/css/main.07884ef0.css",
+    "static/js/main.31679bf0.js"
   ]
 }
