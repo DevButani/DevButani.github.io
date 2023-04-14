@@ -1,0 +1,9 @@
+.Contact {
+    background-color: aquamarine;
+    width: 100vw;
+    height: 100vh;
+}
+.Contact h1 {
+    text-align: center;
+    margin: 0;
+}

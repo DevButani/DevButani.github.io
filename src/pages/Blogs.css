@@ -1,0 +1,9 @@
+.Blogs {
+    background-color: aquamarine;
+    width: 100vw;
+    height: 100vh;
+}
+.Blogs h1 {
+    text-align: center;
+    margin: 0;
+}

@@ -1,0 +1,55 @@
+.navbar {
+    user-select: none;
+    height: 80px;
+    width: 100%;
+    background: darkblue;
+}
+.logobox {
+    margin-left: 30px;
+    display: inline-block;
+    width: auto;
+    height: 80px;
+}
+.logo {
+    display: inline-block;
+    width: 60px;
+    height: auto;
+    padding: 10px;
+    border-radius: 50%;
+}
+.logotextbox {
+    display: inline-block;
+    position: absolute;
+    width: auto;
+    height: 60px;
+    padding: 10px;
+    font-family: sans-serif;
+    font-size: large;
+    color: white;
+    text-align: center;
+}
+.navbar ul {
+    float: right;
+    width: 589px;
+    height: 80px;
+    margin: 0 20px;
+}
+.navbar ul li {
+    list-style: none;
+    margin: 25px 8px;
+    display: inline-block;
+}
+.navbar ul li a {
+    margin-top: 10px;
+    text-decoration: none;
+    color: white;
+    font-size: 20px;
+    padding: 6px 13px;
+    font-family: sans-serif;
+    transition: .4s;
+}
+.navbar ul li a.active,
+.navbar ul li a:hover {
+    background:rgb(255, 166, 0);
+    border-radius: 2px;
+}

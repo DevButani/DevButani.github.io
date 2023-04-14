@@ -1,0 +1,9 @@
+.About {
+    background-color: aquamarine;
+    width: 100vw;
+    height: 100vh;
+}
+.About h1 {
+    text-align: center;
+    margin: 0;
+}
